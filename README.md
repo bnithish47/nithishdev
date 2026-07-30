@@ -1,59 +1,112 @@
-# Hi there, I'm B. Nithish Kumar 👋
+<div align="center">
 
-## 👨‍💻 About Me
+# 👋 Hi, I'm B. Nithish Kumar
 
-🎓 Information Science Engineering Student
+### 💻 Information Science & Engineering Student
+### 🚀 Software Engineer Aspirant
 
-💡 Passionate about Software Development, Data Mining, Machine Learning, and Problem Solving.
+**Building Practical Software Solutions Through Code**
 
-🌱 Currently Learning
-- Data Structures & Algorithms (C++)
-- Machine Learning
-- Data Mining
-- Git & GitHub
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer;Python+Programmer;Data+Structures+%26+Algorithms;Building+Software+That+Solves+Real+Problems"/>
 
----
+<img src="https://komarev.com/ghpvc/?username=bnitish47&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-## 🛠️ Technical Skills
-
-### Languages
-- C
-- C++
-- Python
-- SQL
-- HTML
-- CSS
-- JavaScript
-
-### Tools & Technologies
-- Git
-- GitHub
-- VS Code
-- Pandas
-- NumPy
-- Scikit-learn
+</div>
 
 ---
 
-## 🚀 Projects
+# 🚀 About Me
 
-- 🌿 Smart Crop Doctor
-- 💊 Pharma Insights
-- 📈 Drug Sales Forecasting
-- 🗺️ Navigation System using Dijkstra Algorithm
-- 🧩 Regex to NFA Visualizer
-- 🚨 Smart Accident Response System
+🎓 **B.E. Information Science & Engineering**  
+📍 JSS Science and Technology University, Mysuru
+
+I am passionate about **Software Engineering** and enjoy building practical applications that solve real-world problems.
+
+My primary focus is improving my knowledge in:
+
+- 💻 C++
+- 🐍 Python
+- 📚 Data Structures & Algorithms
+- 🧩 Object-Oriented Programming
+- 🛠 Git & GitHub
+- 🗄 SQL (Learning)
+
+I enjoy solving coding problems, developing software projects, and continuously learning modern software development practices.
 
 ---
 
-## 📫 Connect with Me
+# 💻 Tech Stack
 
-- LinkedIn: *(Add later)*
-- Email: *(Your email)*
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,mysql,git,github,vscode"/>
+
+</p>
 
 ---
 
-⭐ Thanks for visiting my GitHub Profile!
+# 🚀 Featured Projects
+
+| 🚀 Project | 🛠 Technologies |
+|------------|----------------|
+| 🌿 **Smart Crop Doctor** | Python |
+| 💊 **PharmaInsight** | Python • Data Analysis |
+| 🚑 **Smart Accident Response System** | C# • .NET • Dijkstra Algorithm |
+| 🗺 **Navigation System** | C++ • Dijkstra Algorithm |
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bnitish47&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=bnitish47&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnitish47&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- 📚 Strengthening DSA using C++
+- 💻 Building Software Engineering Projects
+- 🌱 Improving Python Skills
+- 🔥 Preparing for Software Engineering Internships
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⭐ Always Learning • Always Building • Always Improving
+
+**Open to Software Engineering Internship Opportunities**
+
+</div>
+
 Update profile README
-
-
