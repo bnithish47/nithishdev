@@ -3,7 +3,7 @@
 # 👋 Hi, I'm B. Nithish Kumar
 
 ### 💻 Information Science & Engineering Student
-### 🚀 Software Engineer Aspirant
+### 🚀 Software Engineering Aspirant
 
 **Building Practical Software Solutions Through Code**
 
@@ -11,7 +11,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=bnitish47&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=bnithish47&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -22,16 +22,27 @@
 🎓 **B.E. Information Science & Engineering Student**  
 📍 **JSS Science and Technology University, Mysuru**
 
-I am passionate about **Software Engineering** and enjoy building practical software solutions that solve real-world problems.
+I am passionate about **Software Engineering** and enjoy designing and developing practical applications that solve real-world problems.
 
-I continuously improve my programming skills through projects, problem solving, and learning modern software development practices.
+I continuously improve my programming, problem-solving, and software development skills by building projects, practicing Data Structures & Algorithms, and learning modern software engineering practices.
 
-### 🌱 Currently Learning
+---
 
-- 📚 Data Structures & Algorithms using C++
-- 🐍 Python
-- 🗄 SQL
-- 🛠 Git & GitHub
+# 📌 Quick Facts
+
+- 💻 Software Engineering Enthusiast
+- 📚 Strong Interest in Data Structures & Algorithms
+- 🚀 Passionate about Building Practical Software Solutions
+- 🤝 Open to Software Engineering Internship Opportunities
+
+---
+
+# 🌱 Currently Learning
+
+- 📚 Advanced Data Structures & Algorithms using C++
+- 🐍 Python Programming
+- 🗄 SQL & Database Concepts
+- 🛠 Git & GitHub Best Practices
 
 ---
 
@@ -47,12 +58,17 @@ I continuously improve my programming skills through projects, problem solving, 
 
 # 🚀 Featured Projects
 
-| 🚀 Project | 🛠 Technologies |
-|------------|----------------|
-| 🌿 **Smart Crop Doctor** | Python |
-| 💊 **PharmaInsight** | Python • Data Analysis |
-| 🚑 **Smart Accident Response System** | C# • .NET • Dijkstra Algorithm |
-| 🗺 **Navigation System** | C++ • Dijkstra Algorithm |
+### 🌿 Smart Crop Doctor
+AI-powered plant disease detection system developed using Python for identifying crop diseases.
+
+### 💊 PharmaInsight
+Pharmacy Sales & Disease Pattern Analysis system for extracting business insights from pharmacy datasets using data mining techniques.
+
+### 🗺 Navigation System Using Dijkstra's Algorithm
+Shortest-path navigation system demonstrating graph algorithms and efficient route optimization.
+
+### 🚑 Emergency Response System *(Ongoing Major Project)*
+Developing an intelligent emergency response platform focused on accident detection, emergency alerts, and optimized routing to nearby hospitals and emergency services.
 
 ---
 
@@ -64,7 +80,8 @@ I continuously improve my programming skills through projects, problem solving, 
 - 🧩 Object-Oriented Programming (OOP)
 - 🗄 SQL
 - 🌐 HTML & CSS
-- 🛠 Git & GitHub
+- 🛠 Git
+- 🐙 GitHub
 - 🧠 Problem Solving
 
 ---
@@ -73,15 +90,15 @@ I continuously improve my programming skills through projects, problem solving, 
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bnitish47&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bnithish47&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=bnitish47&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=bnithish47&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnitish47&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnithish47&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -89,10 +106,11 @@ I continuously improve my programming skills through projects, problem solving, 
 
 # 🎯 Current Focus
 
-- 📚 Strengthening DSA using C++
-- 💻 Building Software Engineering Projects
-- 🌱 Improving Python Programming
-- 🚀 Preparing for Software Engineering Internships
+- 📚 Strengthening Data Structures & Algorithms using C++
+- 💻 Building Real-World Software Engineering Projects
+- 🐍 Enhancing Python Programming Skills
+- 🚀 Developing the Emergency Response System (Major Project)
+- 💼 Preparing for Software Engineering Internship Opportunities
 
 ---
 
@@ -116,10 +134,8 @@ I continuously improve my programming skills through projects, problem solving, 
 
 <div align="center">
 
-## ⭐ Always Learning • Always Building • Always Improving
+## ⭐ Building Practical Software Solutions One Project at a Time
 
 ### 💼 Open to Software Engineering Internship Opportunities
 
 </div>
-
-Update profile README
